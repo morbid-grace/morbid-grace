@@ -10,12 +10,12 @@
     <img src="https://komarev.com/ghpvc/?username=morbid-grace&color=grey&style=plastic&label=Reaped+souls." /> 
   </a>
 <br>
-  
-$\color{#cccdcf}{\textsf{In the cauldron you can hear them scream}}$ <br>
-$\color{#aaabad}{\textsf{Death blues}}$ <br> 
-$\color{#949494}{\textsf{In the fields they holler in pain}}$ <br> 
-$\color{#808080}{\textsf{Death blues}}$ <br> 
-$\color{#696969}{\textsf{And then they whistle the same old tune}}$ <br> 
-$\color{#575757}{\textsf{Death blues}}$
+
+$\Huge\color{#cccdcf}{\text{In the cauldron you can hear them scream}}$ <br>
+$\Huge\color{#aaabad}{\text{Death blues}}$ <br>
+$\Huge\color{#949494}{\text{In the fields they holler in pain}}$ <br>
+$\Huge\color{#808080}{\text{Death blues}}$ <br>
+$\Huge\color{#696969}{\text{And then they whistle the same old tune}}$ <br>
+$\Huge\color{#575757}{\text{Death blues}}$ <br>
 
 <img width="540" height="170" alt="tumblr_85324f8c9978cea43a8392d1125ed0dc_2635db11_2048" src="https://github.com/user-attachments/assets/79da3f5e-977a-4079-b0e2-d53e2c631c5d" />
