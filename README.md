@@ -11,4 +11,10 @@
 
 $\Huge\color{#cccdcf}{\text{₊⊹ Reaper , }}$ $\Huge\color{#949494}{\text{Reverie ,　}}$ $\Huge\color{#696969}{\text{ETC . ۫ ׅ}}$
 
+$\color{#cccdcf}{\textsf{In the cauldron you can hear them scream}}$ <br>
+$\color{#aaabad}{\textsf{Death blues}}$ <br> 
+$\color{#949494}{\textsf{In the fields they holler in pain}}$ <br> 
+$\color{#808080}{\textsf{Death blues}}$ <br> 
+$\color{#696969}{\textsf{And then they whistle the same old tune}}$ <br> 
+$\color{#575757}{\textsf{Death blues}}$ <br> 
 
